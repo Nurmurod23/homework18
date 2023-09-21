@@ -1,0 +1,418 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+}
+
+.nav-list1{
+    display: inline-block;
+    margin-left: 600px;
+}
+
+header{
+    display: flex;
+}
+
+.logo_desktop{
+    padding: 53px 200px;
+}
+
+nav{
+    width: 478px;
+    height: 40px;
+    margin-left: 1100px;
+    position: relative;
+    bottom: 95px;
+    gap: 37px;
+    position: relative;
+    top: 70px;
+}
+
+.nav_item{
+    color: #fff;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+position: relative;
+bottom: 970px;
+left: 100px;
+margin-right: 20px;
+transition: 0.4s ease-in;
+}
+
+.nav_item:hover{
+    color: chocolate;
+}
+
+.header__img{
+    width: 803px;
+    height: 800px;
+    position: relative;
+    bottom: 240px;
+}
+
+.text__title{
+    width: 450px;
+    color: #000;
+font-family: 'Oswald';
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px; 
+margin-left: 190px;
+}
+
+.text__desc{
+    color: #000;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 100% */
+text-transform: uppercase;
+margin-left: 190px;
+position: relative;
+top: 40px;
+}
+
+.text__btn{
+    width: 244px;
+    height: 54px;
+    border: 1px solid #68B738;
+    display: inline-flex;
+padding: 14px 26px;
+align-items: center;
+gap: 4px;
+color: #FFF;
+text-align: center;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 0px; /* 0% */
+text-transform: uppercase;
+background: #68B738;
+margin-left: 190px;
+position: relative;
+top: 100px;
+transition: 0.5s ease
+}
+
+.text__btn:hover{
+    background: #fff;
+    color: #68B738;
+}
+
+.hero_image{
+    width: 552px;
+    height: 499px;
+    margin-left: 700px;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+}
+
+
+.about_animal__box1{
+    width: 750px;
+    height: 450px;
+    background: #F2F2F2;
+    margin-left: 110px;
+}
+
+.cat_back{
+    padding: 52px 52px;
+}
+
+.about_animal__title{
+    color: #000;
+font-family: 'Oswald';
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px; /* 100% */
+text-transform: uppercase;
+margin-left: 214px;
+position: relative;
+bottom: 120px;
+}
+
+.about_animal__desc{
+    width: 457px;
+    height: 72px;
+    color: #000;
+font-family: 'Oswald';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+margin-left: 52px;
+position: relative;
+bottom: 50px;
+}
+
+.about_animal__icon{
+    color: #000;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+padding: 27px 52px;
+position: relative;
+bottom: 30px;
+}
+
+.icon_arrow{
+    position: relative;
+    bottom: 80px;
+    margin-left: 170px;
+}
+
+
+.about_animal__box2{
+    width: 750px;
+    height: 450px;
+    background: #F2F2F2;
+    margin-left: 1000px;
+    position: relative;
+    bottom: 450px;
+}
+
+.services__title{
+    color: #000;
+font-family: 'Oswald';
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px;
+position: relative;
+bottom: 300px;
+margin-left: 110px;
+}
+
+.block_1{
+    margin-left: 110px;
+    position: relative;
+    bottom: 230px;
+}
+
+.block_2{
+    position: relative;
+    bottom: 230px;
+    margin-left: 200px;
+}
+
+.block_3{
+    position: relative;
+    bottom: 230px;
+    margin-left: 200px;
+}
+.block_4{
+    position: relative;
+    bottom: 230px;
+    margin-left: 200px;
+}
+
+.cats_title{
+    margin-left: 110px;
+    color: #000;
+font-family: 'Oswald';
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px; 
+}
+
+.catd{
+    position: relative;
+    top: 76px;
+    width: 1920px;
+    height: 500px;
+    background: #F2F2F2;
+}
+
+.cat_back__desc{
+color: #444;
+font-family: 'Oswald';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+padding: 70px 110px;
+}
+
+.module1{
+    margin-left: 110px;
+}
+
+.module2{
+   margin-left: 60px;
+}
+
+.catd_titel1{
+    color: #000;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 100% */
+text-transform: uppercase;
+padding: 60px 110px;
+}
+
+.catd__titel2{
+    color: #000;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 100% */
+text-transform: uppercase;
+margin-left: 347px;
+position: relative;
+bottom: 80px;
+}
+
+.cat_photo{
+    margin-left: 800px;
+    position: relative;
+    bottom: 680px;
+    left: 0;
+
+}
+
+.cats__slider_title{
+    display: flex;
+}
+
+.slidercha{
+    display: flex;
+    margin-left: 850px;
+    position: relative;
+    bottom: 750px;
+}
+
+.cats__slider_title{
+    color: #000;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+margin-right: 24px;
+}
+
+.cats__slider_title1{
+    color: #000;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+margin-left: 24px;
+}
+
+.cats{
+    position: relative;
+    bottom: 120px;
+}
+
+.locate{
+    width: 1920px;
+    height: 600px;
+    position: relative;
+    bottom: 44px;
+}
+
+.locate__box{
+    width: 600px;
+    height: 200px;
+    background: #FFF;
+    margin-left: 310px;
+    position: relative;
+    bottom: 480px;
+}
+
+.locate__title{
+    width: 163px;
+height: 83.415px;
+    color: #111;
+font-family: 'Oswald';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px; /* 105% */
+text-transform: uppercase;
+margin-left: 76px;
+position: relative;
+top: 66.31px;
+}
+
+
+.locate__desc1{
+    width: 155px;
+height: 40.2px;
+color: #444;
+font-family: 'Oswald';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+margin-left: 326px;
+position: relative;
+bottom: 30px;
+}
+
+.locate__desc2{
+color: #444;
+font-family: 'Oswald';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+margin-left: 326px;
+}
+
+.map{
+    margin-left: 912px;
+    position: relative;
+    bottom: 80px;
+}
+
+footer{
+    width: 1920px;
+    height: 200px;
+    background: #F2F2F2;
+    position: relative;
+    bottom: 247px;
+}
+
+.footer__logo{
+    padding: 87px 110px;
+}
+
+.social_media{
+    margin-left: 500px;
+    position: relative;
+    bottom: 80px;
+}
+
+.logo_html{
+    position: relative;
+    bottom: 80px;
+    margin-left: 387px;
+}
